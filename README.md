@@ -6,12 +6,12 @@ Este projeto tem o objetivo de apresentar uma landing page para uma loja virtual
 
 > A estrutura está dividida primeiro de acordo com as funções que exercem cada parte do código e em seguida em blocos relativos aos conteúdos em que são aplicadas estas formatações.
 
-- index.html - Página principal
++ node_modules - conteúdos de configuração do rolê
 
-- css - Pasta com os arquivos de estilização
++ public - contém imagens
 
-  - Arquivo a ser criado
+  + favicon.ico
 
-- script.js contém o JavaScript necessário para rodar
+  + logos
 
-> Ainda falta instalar o REACT
++ src - contém os códigos em JavaScript
