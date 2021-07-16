@@ -15,3 +15,7 @@ Este projeto tem o objetivo de apresentar uma landing page para uma loja virtual
   + logos
 
 + src - contém os códigos em JavaScript
+
+## Credits 
+
+Favicon made by [Gregor Cresnar](https://www.flaticon.com/authors/gregor-cresnar), available at [Flaticon.com](https://www.flaticon.com/)
